@@ -1,0 +1,7 @@
+Package: SciSAE
+Type: Package
+Title: Multiple Comparisons for SAE
+Version: 0.0.1.0
+Imports: 
+	sampling (>= 2.9.0)
+RoxygenNote: 7.2.1
